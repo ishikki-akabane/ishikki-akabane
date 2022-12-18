@@ -12,7 +12,7 @@
 ## Info
 
 <p align="center">
-  <b>Hey people, mysefl Ishikki Akabane, an introvert developer</b>
+  <b>Hey people, myself Ishikki Akabane, an introvert developer</b>
 </p>
 
 - 💼 Still a Student
