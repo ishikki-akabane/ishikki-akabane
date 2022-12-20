@@ -3,7 +3,6 @@
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="IShIkkI AkABANE" /></a>
 </p>
 
-
 <p align="center">
   <a href="https://github.com/ishikki-akabane">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20Telegram%20Bot%20Designer;Learning%20Coding%20since%20Childhood;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
@@ -80,7 +79,10 @@
   <img src="https://profile-counter.glitch.me/ishikki-akabane/count.svg" />
 </p>
 
-   <a href="https://github.com/ishikki-akabane/github-readme-stats"><img alt="Ishikki's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ishikki-akabane&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<p align="center">
+  <a href="https://github.com/ishikki-akabane/github-readme-stats"><img alt="Ishikki's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ishikki-akabane&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+</p>
+
 
 ![Ishikki's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=ishikki-akabane&theme=tokyonight)
 
