@@ -79,9 +79,9 @@
   <img src="https://profile-counter.glitch.me/ishikki-akabane/count.svg" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ishikki-akabane/github-readme-stats"><img alt="Ishikki's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ishikki-akabane&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-</p>
+
+   <a href="https://github.com/ishikki-akabane/github-readme-stats"><img alt="Ishikki's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ishikki-akabane&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+
 
 
 ![Ishikki's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=ishikki-akabane&theme=tokyonight)
