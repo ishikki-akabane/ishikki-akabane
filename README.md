@@ -8,7 +8,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20Telegram%20Bot%20Designer;Learning%20Coding%20since%20Childhood;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-# ISΉIKKI ΛKΛBΛПΣ
 
 <p align="center">
   <a href="https://t.me/ishikki-akabane"><img src="https://te.legra.ph/file/e13cc7c82f3948979f68d.jpg" alt="IshikkiAkabane"></a>
