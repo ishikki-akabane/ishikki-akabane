@@ -1,4 +1,6 @@
-https://te.legra.ph/file/8b7284165dc2e36c34cd9.jpg
+<p align="center">
+  <a href="https://t.me/ishikki-akabane"><img src="https://te.legra.ph/file/8b7284165dc2e36c34cd9.jpg" alt="IshikkiAkabane"></a>
+
 
 <p align="center">
   <a href="https://github.com/ishikki-akabane">
