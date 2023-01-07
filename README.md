@@ -9,10 +9,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://t.me/ishikki-akabane"><img src="https://te.legra.ph/file/e13cc7c82f3948979f68d.jpg" alt="IshikkiAkabane"></a>
-</p>
-
 ## Info
 
 <p align="center">
