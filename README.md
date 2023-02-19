@@ -92,6 +92,5 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikki-akabane" />
 </div>
-Language
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ishikki-akabane&theme=onedark)
