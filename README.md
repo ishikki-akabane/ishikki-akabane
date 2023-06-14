@@ -87,7 +87,7 @@
 ![Ishikki's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=ishikki-akabane&theme=tokyonight)
 
 
-<a href="https://github.com/ishikki-akabane/github-readme-activity-graph"><img alt="Ishikki's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=ishikki-akabane&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ishikki-akabane/github-readme-activity-graph"><img alt="Ishikki's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ishikki-akabane&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikki-akabane" />
