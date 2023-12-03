@@ -17,7 +17,7 @@
 
 - 💼 Still a Student
 - :school: I’m currently in my last year of school
-- 🌱 I’m currently learning **JAVA Language**
+- 🌱 I’m currently learning **JAVA SCRIPT Language**
 - 🔭 I’m currently working on **Eri Akane Telegram Fantasy Game bot. It’s like a game of thrones but with more dragons and less politics.**
 - :star: My wish is to work with other developers but I lack confidence (I’m working on it though!). I’m like a shy turtle who wants to come out of its shell.
 - :two_hearts: I love Alice in Wonderland :dizzy: (random code word for my crush :skull:)
