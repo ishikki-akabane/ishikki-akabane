@@ -80,6 +80,9 @@
   <img src="https://profile-counter.glitch.me/ishikki-akabane/count.svg" />
 </p>
 
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api?username=ishikki-akabane&count_private=true&show_icons=true&theme=radical" align="center">
+</p>
 
 <a href="https://github.com/ishikki-akabane/github-readme-stats"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ishikki-akabane&show_icons=True&include_all_commits=True&count_private=True&theme=react&hide_border=True&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 
